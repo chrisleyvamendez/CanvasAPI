@@ -1,0 +1,17 @@
+{
+  "name": "canvas_remind",
+  "version": "1.0.0",
+  "description": "Bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Christian Leyva Mendez",
+  "license": "MIT",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
